@@ -9,8 +9,9 @@ return {
   { 'f', 'Finder' },
   { 'm', 'Spark' },
   { 'a', 'Slack' },
-  { 't', 'iTerm' },
-  { 'c', 'Telegram' },
+  { 't', 'Telegram' },
+  { 'v', 'iTerm' },
+  { 'c', 'Google Chrome' },
   { 'w', 'Tweetbot' },
   { 'd', 'Dash' },
 }
